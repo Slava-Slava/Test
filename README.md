@@ -1,3 +1,3 @@
-# Hello,world!
+# Hello, world!
 
-Я учусь в нетологии
+I study in netology
